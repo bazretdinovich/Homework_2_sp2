@@ -1,0 +1,25 @@
+.App {
+    --header_height: 60px;
+}
+
+.hw {
+    display: flex;
+    flex-direction: column;
+    max-width: 1280px;
+    min-height: 373px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.hwTitle {
+    margin: 0 auto;
+    max-width: 1280px;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #000000;
+    margin-bottom: 10px;
+}
