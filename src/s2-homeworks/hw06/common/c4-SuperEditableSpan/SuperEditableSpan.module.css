@@ -1,11 +1,31 @@
 .spanBlock {
+    height: 36px;
+    width: 276px;
 }
 
 .span {
+    word-wrap: break-word;
+    color: #0080FF;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 332px;
+    min-height: 36px;
+    margin-bottom: 10px;
 }
 
 .input {
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    border: 1px solid #D1D1D1;
 }
 
 .pen {
+    color: #0080FF;
+    width: 24px;
+    height: 24px;
 }
